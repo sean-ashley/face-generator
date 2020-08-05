@@ -1,0 +1,8 @@
+/img_align_celeba
+/images
+/__pycache__
+/assets
+/.vscode
+/Face_discriminator.pt
+/Face_generator.pt
+/train_samples.pkl
